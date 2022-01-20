@@ -16,3 +16,5 @@ or run ./todo command in shell for windows
 That's all the option available with todo app
 
 ##some of screenshot
+
+-![Screenshot2](https://github.com/Anurag-zr/command-line-interface-todo-app/blob/main/img/usage.png)
