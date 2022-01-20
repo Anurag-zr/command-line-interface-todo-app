@@ -10,3 +10,4 @@
 or run ./todo command in shell for windows
 
           (you will see screenshot like this)
+-![Screenshot1](https://github.com/Anurag-zr/command-line-interface-todo-app/blob/main/img/menu.png)
